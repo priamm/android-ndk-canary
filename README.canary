@@ -1,0 +1,6 @@
+This is a canary build of the Android NDK. It's updated almost every day.
+
+Canary builds are designed for early adopters and can be prone to breakage.
+Sometimes they can break completely. To aid development and testing, this
+distribution can be installed side-by-side with your existing, stable NDK
+release.
